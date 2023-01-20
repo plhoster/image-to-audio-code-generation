@@ -4,7 +4,8 @@
 
 layout: default
 ---
-- Project by <a href="https://github.com/PicoLuetjens">Pico Lütjens</a>
+- Project by <a href="https://picoluetjens.github.io">Pico Lütjens</a>
+- Source Code is avilable <a href="https://github.com/PicoLuetjens/Image-to-Audio-Code-Generation">here</a>
 
 # General
 This tool generates audio snippets from an image using Processing and the Earsketch Environment. The generated snippet depends on parameters that are taken into account such as the width of the image, percentage of bright parts, percentage of dark parts etc.
